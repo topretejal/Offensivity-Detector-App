@@ -1,0 +1,10 @@
+#Fri Aug 20 21:15:31 IST 2021
+base.2=/home/tejal/projects/OffensiveClassificationAndroid/Custom-Text-Classification-on-Android-using-TF-Lite-master/Android_App/app/build/intermediates/dex/taskApiDebug/mergeLibDexTaskApiDebug/classes_0.dex
+path.2=classes_0.dex
+base.1=/home/tejal/projects/OffensiveClassificationAndroid/Custom-Text-Classification-on-Android-using-TF-Lite-master/Android_App/app/build/intermediates/dex/taskApiDebug/mergeProjectDexTaskApiDebug/classes.dex
+path.1=classes.dex
+base.0=/home/tejal/projects/OffensiveClassificationAndroid/Custom-Text-Classification-on-Android-using-TF-Lite-master/Android_App/app/build/intermediates/dex/taskApiDebug/mergeExtDexTaskApiDebug/classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
